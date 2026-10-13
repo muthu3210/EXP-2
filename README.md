@@ -7,12 +7,12 @@ To conduct load test on separately excited generators and to obtain the characte
 Apparatus Required:
 
 Sl .no	Apparatus	Range	Type	Quantity
-1	Volt meter	(0-300)V	MC	1
-2	Ammeter	(0-2.5)A	MC	1
-3	Ammeter	(0-5)A	MC	1
-4	Rheostat		Wire wouned	1
-5	Rheostat		Wire wouned	1
-6	Connecting wires	-	-	As required
+1)	Volt meter	(0-300)V	MC	1
+2)	Ammeter	(0-2.5)A	MC	1
+3)	Ammeter	(0-5)A	MC	1
+4)  Rheostat		Wire wouned	1
+5)	Rheostat		Wire wouned	1
+6)	Connecting wires	-	-	As required
 
 Fuse rating calculation for field and armature:
 
@@ -47,17 +47,42 @@ Procedure for Load test:
 6.   After tabulating all the readings the load is brought to its initial position.
 7.   The motor is switched off by using DPST switch 1 after bringing all the rheostats to initial position.
 
-Tabulation for Open Circuit Test
+Tabulation for Open Circuit Test:
+| S.No. | Field Current $I_f$ (A) | Generated Voltage $V_0$ (V) |
+| :---: | :---------------------: | :--------------------------: |
+|   1   |          0.16           |             115              |
+|   2   |          0.18           |             120              |
+|   3   |          0.20           |             126              |
+|   4   |          0.21           |             129              |
+|   5   |          0.23           |             133              |
+|   6   |          0.28           |             138              |
 
 Tabulation for Load Test:
+| S.No. | Load Current $I_L$ (A) | Terminal Voltage $V$ (V) |
+| :---: | :--------------------: | :-----------------------: |
+|   1   |          1.2           |            220            |
+|   2   |          2.8           |            212            |
+|   3   |          3.2           |            208            |
+|   4   |          3.6           |            205            |
+|   5   |          5.5           |            200            |
+|   6   |          7.0           |            195            |
+|   7   |          8.1           |            189            |
+
 
 Model graph:
-Calculation: 
 
-Open circuit characteristics
+<img width="474" height="226" alt="image" src="https://github.com/user-attachments/assets/9a8524df-6dcb-403b-916e-4a62ba1ff09b" />
+<img width="787" height="250" alt="image" src="https://github.com/user-attachments/assets/269c797b-9998-4600-bb37-f8e073f4e974" />
+
+
+
+Open circuit characteristics:
+<img width="685" height="532" alt="image" src="https://github.com/user-attachments/assets/9b6f6b58-a70d-4f67-96e6-c696df3f258d" />
 
   
 Load Characteristics:
- 
+
+ <img width="518" height="406" alt="image" src="https://github.com/user-attachments/assets/ff151d22-e927-4f00-be69-30e639c6e735" />
+
 Result:
 The load test on separately excited generators and to obtain the characteristics was verified.
