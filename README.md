@@ -1,5 +1,3 @@
-# ELECTRICAL CIRCUITS LABORATORY
-
 ## EXPERIMENT NO. 2 – OCC AND LOAD CHARACTERISTICS OF D.C. SHUNT GENERATOR
 
 📥 **[Download Word template](Experiment_2_DC_Shunt_Generator_OCC_Load_Student_Template.docx?raw=true)**
